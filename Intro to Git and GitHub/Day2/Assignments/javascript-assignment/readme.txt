@@ -1,3 +1,3 @@
-Welcome to the web
+Welcome to the website
 this is javascript
 Here we will about logic
